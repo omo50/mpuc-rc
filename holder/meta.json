@@ -2,6 +2,314 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+      {
+        "id": "0.1.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.1.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.1.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.1.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.2.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      {
+        "id": "0.2.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.5",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.6",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.7",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.2.8",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.3.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.2-1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.5",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.3.6",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.4.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.4.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.4.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.4.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.4.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.5.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.5",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.6",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.5.7",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.6.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.6.1",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.6.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.0",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.7.1",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.7.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.5",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.6",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.7",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.8",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.9",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.10",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.11",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.7.12",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.1",
+        "releasedAt": 1721566760000,
+        "updateType": "major"
+      },
+      {
+        "id": "0.8.0.beta.2",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.3",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.4",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.5",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.6",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.7",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.8",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.9",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.10",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.11",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
+      {
+        "id": "0.8.0.beta.12",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      },
   ]
 }
